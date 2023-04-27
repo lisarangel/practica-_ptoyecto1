@@ -1,0 +1,36 @@
+h1 {
+  color: brown;
+}
+
+.div-h2_title {
+  color: red;
+}
+
+/*p{
+     background-color: lightsteelblue;
+}*/
+
+#p-strong {
+  color: maroon;
+}
+
+h4,
+li {
+  color: crimson;
+}
+
+* {
+  background-color: blanchedalmond;
+  font-family: fantasy;
+}
+.nav-img_logo {
+  width: 600px;
+}
+
+h1 {
+  font-size: 30px;
+}
+.nav-div {
+  display: flex;
+  justify-content: center;
+}
